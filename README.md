@@ -64,7 +64,7 @@ Features available in the dashboard:
 ---
 
 ## ⚙️ Environment
-- A Python **virtual environment (`venv`)** is already included in this project.  
+- A Python **virtual environment (`venv`)** should be created for best practices and then activated.
 - No repo cloning needed; just use the existing setup.  
 
 ---
